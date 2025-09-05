@@ -47,3 +47,6 @@ Please share it directly in the forum, or contribute via GitHub by creating an *
 Help spread the word about this forum by ⭐ this repository on GitHub and sharing it with your friends who love tinkering with Linux and Batch!
 
 ---
+
+[![Join Forum](https://img.shields.io/badge/Join-Forum-brightgreen)](https://linuxfrombatch.proboards.com/)
+[![Made with Batch](https://img.shields.io/badge/Made%20with-Batch-blue)](#)
