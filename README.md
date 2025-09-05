@@ -49,4 +49,4 @@ Help spread the word about this forum by ⭐ this repository on GitHub and shari
 ---
 
 [![Join Forum](https://img.shields.io/badge/Join-Forum-brightgreen)](https://linuxfrombatch.proboards.com/)
-[![Made with Batch](https://img.shields.io/badge/Made%20with-Batch-blue)]
+[![Made with Batch](https://img.shields.io/badge/Made%20with-Batch-blue)] (#)
